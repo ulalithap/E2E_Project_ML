@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: E2E_project
+Version: 0.0.1
+Author: Lalitha
+Author-email: lalitha.uppaluri@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: ipykernel
+Requires-Dist: xlrd
+Requires-Dist: statsmodels
+Requires-Dist: flask
+Requires-Dist: plotly
+Requires-Dist: xgboost
+Requires-Dist: kneed

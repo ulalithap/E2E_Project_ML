@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+ipykernel
+xlrd
+statsmodels
+flask
+plotly
+xgboost
+kneed
+-e .
