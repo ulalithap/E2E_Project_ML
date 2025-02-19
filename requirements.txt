@@ -1,4 +1,4 @@
-numpy
+numpy==1.26.4
 pandas
 scikit-learn
 seaborn
@@ -10,4 +10,5 @@ flask
 plotly
 xgboost
 kneed
--e .
+#-e .
+catboost
